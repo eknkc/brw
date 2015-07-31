@@ -1,8 +1,8 @@
 {
   "name": "brw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Binary reader & writer on Typed Arrays",
-  "main": "dist/build.js",
+  "main": "build/index.js",
   "scripts": {
     "prepublish": "./node_modules/.bin/babel src --out-dir build"
   },
